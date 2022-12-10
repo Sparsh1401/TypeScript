@@ -1,2 +1,1 @@
-# Typescript
-# Typescript
+Learn TypeScript in one file 
